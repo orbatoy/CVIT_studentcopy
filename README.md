@@ -9,7 +9,7 @@
 
 ## About
 Created by : _Aub Thompson_ for the purpose of introducing web devlopment to students. 
-This project is for use by TAFE students to see [CVIT.info](https://cvit.info) at various stages of development and experiment with their own live version
+This project is for use by TAFE students to see [CVIT.info](https://cvit.info) at various stages of development and experiment with their own live version andrew
 
 ## Table of Contents
 

@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-# CVIT Student Copy
+# About
 ### Created by : _Aub Thompson_ for the purpose of introducing web devlopment to students.  
 This project is for use by TAFE students to see CVIT.info at various stages of development and experiment with their own live version
 

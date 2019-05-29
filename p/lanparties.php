@@ -10,7 +10,7 @@ include 'cvittop.php'; ?>
     </div>
     <div class="seven columns">
 <ul class="breadcrumbs">
-  <li><span><a href="index.html">Home</a></span></li>
+  <li><span><a href="index.php">Home</a></span></li>
   <li class="current"><span><a href="lanparties.html">Lan Parties</a></span></li>
 </ul>
     </div>
@@ -59,20 +59,22 @@ include 'cvittop.php'; ?>
 
 
 
-<div class="spacer2"></div>
+<!-- <div class="spacer2"></div>
 
 
   <div class="row mb20">
     <div class="twelve mobile-four columns">
-<h1 class="large">Gallery</h1>
-</div>
+      <h1 class="large">Gallery</h1>
+    </div>
   </div>
 
 
-  <div class="row">
-<div class="six mobile-four columns mb20">
-<figure><img src="images/langamers4.jpg" alt="" data-bottom-center="transform:scale(2)" data-center-center="transform:scale(1)">
-<figcaption><span>&#169; Copyright</span></figcaption></figure>
+<div class="row">
+  <div class="six mobile-four columns mb20">
+  <figure>
+    <img src="images/langamers4.jpg" alt="" data-bottom-center="transform:scale(2)" data-center-center="transform:scale(1)">
+    <figcaption><span>&#169; Copyright</span></figcaption>
+  </figure>
 </div>
 
 
@@ -148,7 +150,7 @@ include 'cvittop.php'; ?>
 </figure>
 </div>
     
-</div>
+</div> -->
 
 
 
